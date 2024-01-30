@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+<body>
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead">
+</body>
 <h1 align="center">Hi 👋, I'm Karan Gupta</h1>
 <h5 align="left">As a highly motivated and ambitious Computer Science student, I am committed to mastering the intricacies of Data Structures and Algorithms. My expertise extends to the Android Development, and I possess a strong inclination towards Flutter, which fuels my interest in exploring the latest advancements in the domain.
 
