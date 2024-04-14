@@ -15,7 +15,7 @@ Please do not hesitate to reach out to me for a discussion on potential collabor
 
 <p align="left"> <a href="https://twitter.com/gupta_karan11" target="blank"><img src="https://img.shields.io/twitter/follow/gupta_karan11?logo=twitter&style=for-the-badge" alt="gupta_karan11" /></a> </p>
 
-- 🔭 I’m currently working on [Talk Buddy](https://github.com/guptakaran11/Talk-Buddy)
+- 🔭 I’m currently working on [AI-Chat](https://github.com/guptakaran11/AI-Chat)
 
 - 🌱 I’m currently learning **Flutter, Dart, Api and Python**
 
