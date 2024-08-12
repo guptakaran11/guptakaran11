@@ -9,25 +9,26 @@ Driven by a constant desire for growth and development, I am consistently augmen
 With exceptional communication and collaboration skills, I am confident in my ability to work towards common objectives and deliver exceptional results. I am open to new opportunities and challenges that would help me acquire new skill sets and gain experience in the industry.
 
 Please do not hesitate to reach out to me for a discussion on potential collaborations or opportunities.</h5>
+
 <img align="right" alt="Coding" width="400" src ="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptakaran11&label=Profile%20views&color=0e75b6&style=flat" alt="guptakaran11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gupta_karan11" target="blank"><img src="https://img.shields.io/twitter/follow/gupta_karan11?logo=twitter&style=for-the-badge" alt="gupta_karan11" /></a> </p>
 
-- 🔭 I’m currently working on [AI-Chat](https://github.com/guptakaran11/AI-Chat)
+- 🔭 I’m currently working on [Travel-Mate](https://github.com/guptakaran11/Travel-Mate)
 
 - 🌱 I’m currently learning **Flutter, Dart, Api and Python**
 
 - 👯 I’m looking to collaborate on [Sanchalan](https://github.com/guptakaran11/Sanchalan)
 
-- 📝 I regularly write articles on [https://karangupta.hashnode.dev/](https://karangupta.hashnode.dev/)
+- 📝 I regularly write articles on [Karan Blogs](https://karangupta.hashnode.dev/)
 
 - 💬 Ask me about **Android, Flutter, Python, Dart, RestAPI**
 
 - 📫 How to reach me **developer.karangupta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fCMsxoEqk3ynTTIK6wp3H8lPHJtQhsNa/view?usp=sharing](https://drive.google.com/file/d/1fCMsxoEqk3ynTTIK6wp3H8lPHJtQhsNa/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fCMsxoEqk3ynTTIK6wp3H8lPHJtQhsNa/view?usp=sharing)
 
 - ⚡ Fun fact **I like to play games**
 
